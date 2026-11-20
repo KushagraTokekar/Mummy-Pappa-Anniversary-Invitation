@@ -59,7 +59,7 @@ export const GALLERY_DATA: GalleryPhoto[] = [
   {
     id: "photo-04",
     src: "/images/gallery/photo-04.jpeg",
-    title: "Wanderlust & Sunsets",
+    title: "Wanderlust",
     caption: "Carefree holidays, exploring new horizons together.",
     category: "precious",
     year: "2008",

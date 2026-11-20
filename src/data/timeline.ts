@@ -27,7 +27,7 @@ export const TIMELINE_DATA: TimelineMilestone[] = [
   },
   {
     id: "milestone-2",
-    year: "[WEDDING DAY]",
+    year: "2001",
     title: "The Day Two Hearts Became One",
     subtitle: "Sacred vows & timeless promises",
     description: "Surrounded by sacred rituals, music, and tears of joy, a bond for seven lifetimes was sealed with grace and devotion.",
@@ -36,7 +36,7 @@ export const TIMELINE_DATA: TimelineMilestone[] = [
   },
   {
     id: "milestone-3",
-    year: "[MILESTONE 1]",
+    year: "2009",
     title: "A Beautiful Memory",
     subtitle: "Laughter, family & new joys",
     description: "Welcoming new smiles, tiny footsteps, and cozy evenings. Every ordinary day turned into an extraordinary chapter of warmth.",
@@ -45,7 +45,7 @@ export const TIMELINE_DATA: TimelineMilestone[] = [
   },
   {
     id: "milestone-4",
-    year: "[MILESTONE 2]",
+    year: "2014",
     title: "Growing Together",
     subtitle: "Through every season of life",
     description: "Standing shoulder to shoulder through every challenge, triumph, celebration, and life transition. An unshakeable foundation of love.",
